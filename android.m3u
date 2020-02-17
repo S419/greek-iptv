@@ -210,8 +210,8 @@ https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg",HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/0Ovqq2f.png",TILESPORT
-http://tv3.streampulse.eu:1935/tilesport/movie1/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/AZteACJ.jpgE",RADIO EPISTROFI
+http://tv3.streampulse.eu:1935/tilesport/movie1/playlist.m3u8android.m3uandroid.m3u
+#EXTINF: -1 ομάδα-τίτλος = "WEB τηλεόραση" tvg-logo = "http://i.imgur.com/AZteACJ.jpgE", ΡΑΔΙΟ ΕΠΙΣΤΡΟΦΗ
 https://s1.cystream.net/live/epistrofi/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/ZVmCknP.png",ELLINIKOS FM
 https://itv.streams.ovh/ellinikosfm/ellinikosfm/playlist.m3u8
@@ -222,6 +222,6 @@ http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="http://i.imgur.com/GdgekUL.png",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI TV2
-https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
+https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8android.m3uandroid.m3u
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="http://i.imgur.com/M1vn8hv.png",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
